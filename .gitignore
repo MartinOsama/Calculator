@@ -1,0 +1,23 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+build/
+
+# Platform-specific
+android/app/build/
+ios/Pods/
+macos/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+linux/Flutter/ephemeral/
+web/build/
+
+# IDE-specific
+.idea/
+*.iml
+
+# System-specific
+.DS_Store
+Thumbs.db
